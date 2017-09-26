@@ -1,2 +1,5 @@
-# gatsby-wordpress-netlify-starter
-A starter site for Gatsby sourcing its data from Wordpress and hosted on Netlify.
+# Gatsby *Using Wordpress* example site, with [Netlify](https://www.netlify.com) support
+
+[*Using Wordpress*](https://github.com/gatsbyjs/gatsby/tree/master/examples/using-wordpress) example available at Gatsby's repo.
+
+[*gatsby-plugin-netlify*](https://github.com/gatsbyjs/gatsby/tree/master/packages/gatsby-plugin-netlify) available at Gatsby's repo.
